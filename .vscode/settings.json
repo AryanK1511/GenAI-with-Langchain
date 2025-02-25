@@ -3,6 +3,8 @@
   "files.eol": "\n",
   "files.insertFinalNewline": true,
   "editor.formatOnSave": true,
+  "notebook.formatOnCellExecution": true,
+  "notebook.defaultFormatter": "charliermarsh.ruff",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[markdown]": {
     "editor.formatOnSave": true,
@@ -14,6 +16,9 @@
       "source.fixAll": "explicit",
       "source.organizeImports": "explicit"
     },
+    "editor.defaultFormatter": "charliermarsh.ruff"
+  },
+  "[jupyter]": {
     "editor.defaultFormatter": "charliermarsh.ruff"
   },
   "[json]": {
