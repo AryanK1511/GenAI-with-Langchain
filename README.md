@@ -1,6 +1,6 @@
 # Generative AI with LangChain
 
-A collection of all my code and notes while learning to build genAI Applications 🤖📚.
+A collection of all my code and notes while learning to build genAI Applications 🤖📚
 
 ## Resources
 
